@@ -1,0 +1,25 @@
+#
+# dfrobot config
+#
+
+
+#board name
+name=dfrobot0
+
+
+
+#wifi status mode set
+ssid   =    jingwenyhi
+password=123456
+
+#smart chat ,chinese or english
+language = chinese
+
+#baidu tts config
+baiduApiId = 5882776
+baiduApiKey = kxEPGh7TXL3javiTkCsoRlfG
+baiduApiSecrtkey = 8fdc8211c0fadf4cfeab7f4e9647823c
+
+#tuling chat config
+tulingApiKey = 35fb2fb9567aec3f9d595bfef8d7cfc8
+tulingUserKey = 88858

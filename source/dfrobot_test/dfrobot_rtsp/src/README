@@ -1,0 +1,14 @@
+test flow:
+
+tar -xzvf dfrobotLive555.tar.gz
+cd dfrobotLive555
+make
+
+cd testProgs
+
+# cp test.aac and testGetAudioDataFromMemroy to you board
+
+./testGetAudioDataFromMemroy &
+
+# use vlc(on pc) play 
+
